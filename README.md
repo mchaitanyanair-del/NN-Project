@@ -1,2 +1,14 @@
-# BigData-Project
-A college project aiming to render a dataset with 1 million rows with heavily bloated text. Our engine is build purely on Numpy.
+A chunk-based analytical query engine in pure Python and NumPy.
+Processes 1M+ row datasets within limited RAM where Pandas crashes.
+
+Built as a Year 1 university project.
+
+## Team
+- [Your Name] — Core Engine (chunked reader, memory manager, executor)
+- [Teammate 2] — Filter + Sort operators
+- [Teammate 3] — GroupBy + Aggregation operators  
+- [Teammate 4] — Fluent API layer
+
+## Stack
+- Python 3.10+
+- NumPy only (no Pandas, no external dependencies)
