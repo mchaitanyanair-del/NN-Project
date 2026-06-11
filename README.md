@@ -4,7 +4,7 @@ Processes 1M+ row datasets within limited RAM where Pandas crashes.
 Built as a Year 1 university project.
 
 ## Team
-- [Your Name] — Core Engine (chunked reader, memory manager, executor)
+- Chaitanya — Core Engine (chunked reader, memory manager, executor)
 - [Teammate 2] — Filter + Sort operators
 - [Teammate 3] — GroupBy + Aggregation operators  
 - [Teammate 4] — Fluent API layer
