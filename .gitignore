@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#To ignore the massive 4 gb file
+*.csv
+__pycache__/
+processed_batches/
